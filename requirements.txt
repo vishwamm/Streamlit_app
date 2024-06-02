@@ -1,0 +1,6 @@
+streamlit
+pillow
+streamlit-lottie
+pandas
+category-encoders
+scikit-learn
